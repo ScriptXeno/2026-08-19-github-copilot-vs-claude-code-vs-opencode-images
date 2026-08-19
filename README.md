@@ -1,0 +1,1 @@
+# 2026-08-19-github-copilot-vs-claude-code-vs-opencode-images
